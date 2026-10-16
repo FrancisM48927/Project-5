@@ -1,7 +1,7 @@
 // ****************************************************************
-// * Authors: T. LUM and R. MARTIN
-// * CPEG222 Demo Program5, 9/28/2026
-// * NucleoF446ZE CMSIS STM32F4xx example Proj5
+// * Author: F. Mailom
+// * CPEG222 Demo Program5, 10/15/2026
+// * NucleoF446ZE CMSIS STM32F446 Project 5
 // * Sends text to the OLED display using SPI
 // ****************************************************************
 #include "stm32f4xx.h"
